@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DejaPhoto</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_next_photo">NextPhotoActivity</string>
+    <string name="title_activity_prev_photo">PrevPhotoActivity</string>
+    <string name="title_activity_karma">KarmaActivity</string>
+    <string name="title_activity_release">ReleaseActivity</string>
+    <string name="title_activity_userLocation">UserLocationActivity</string>
+
+    <string-array name="choose_rate">
+        <item>4</item>
+        <item>8</item>
+        <item>16</item>
+        <item>32</item>
+    </string-array>
+    <string name="title_activity_friends">FriendsActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
